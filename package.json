@@ -1,0 +1,19 @@
+{
+  "name": "nusantara-project",
+  "version": "1.0.0",
+  "description": "Ini merupakan project Anak Bangsa Indonesia untuk mencerdaskan masyarakat Indonesia ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Soleh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
